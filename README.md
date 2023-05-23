@@ -34,6 +34,13 @@
 
 - - -
 
+**intro**
+
+* [origin](https://github.com/syl20bnr/spacemacs)
+* [fork](https://github.com/Ju2ender/emacs.d)
+
+安装 Spacemacs 后，参考 home 目录中的内容，对 `%HOME%\.spacemacs` 进行更新，重启 Emacs 后即可看到效果
+
 **Quick Start**
 
 If you *don't* have an existing Emacs setup and want to run Spacemacs as your
